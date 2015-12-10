@@ -1,0 +1,60 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["1997 earnings", "selected year earnings"],
+        
+            "sourceText":["Annual Survey of Hours and Earnings - 2015, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/ons/about-ons/business-transparency/freedom-of-information/what-can-i-request/published-ad-hoc-data/econ/november-2015/annual-survey-of-hours-and-earnings-data.xls"],
+            "NMW":[3.6, 3.6, 3.6, 3.6, 3.7, 4.1, 4.2, 4.5, 4.85, 5.05, 5.35, 5.52, 5.73, 5.8, 5.93, 6.08, 6.19, 6.31, 6.5],
+            "fact":[
+               "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+			   "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+			   "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+               "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+               "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+               "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+               "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+               "The shape of earnings prior to and  immediately after the introduction  of the National Minimum Wage  (in 1999) was smooth.",
+               "From 2005 onwards a kink begins  to develop in the distribution  around the National Minimum Wage,  with a growing number of jobs paying  the statutory minumun per hour.",
+               "From 2005 onwards a kink begins  to develop in the distribution  around the National Minimum Wage,  with a growing number of jobs paying  the statutory minumun per hour.",
+              "From 2005 onwards a kink begins  to develop in the distribution  around the National Minimum Wage,  with a growing number of jobs paying  the statutory minumun per hour.",
+                "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                 "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                 "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                 "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate.",
+                 "This trend continues both during and  following the economic downturn of  2008 to 2009. By 2015, 8% of employee  jobs paid at,or up to 40p above,  National Minimum Wage hourly rate."
+            ], 
+            "annoX":[ 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16],
+            "annoY":[ 6.5, 6.5, 6.5,  6.5,   6.5,   6.5,   6.5,   6.5,   6.5,   6.5,   6.5,   6.5,  6.5,  6.5,   6.5,   6.5,  6.5,   6.5,   6.5 ],
+            "annoAlign":["start","start","start","start","start","start","start","start", "start", "start", "start", "start", "start", "start"],
+            "yearArray":["1997", "1998", "1999", "2000", "2001",	"2002",	"2003",	"2004",	"2005",	"2006",	"2007",	"2008",	"2009",	"2010",	"2011",	"2012",	"2013","2014",	"2015" ],
+            "startYear":18, 
+            "yAxisLabel":"%",
+            "yAxisScale":[0,9],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [40, 10, 35, 30],
+            "margin_md": [40, 10, 35, 30],
+            "margin_lg": [40, 10, 35, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            "x_num_ticks_sm_md_lg" : [6,30,30],              
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
